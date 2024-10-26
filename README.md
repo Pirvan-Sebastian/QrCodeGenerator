@@ -1,2 +1,2 @@
 # QR Code Generator
-Simple QR Code Generator using Python
+Simple QR Code Generator with GUI using customtkinter Python library
